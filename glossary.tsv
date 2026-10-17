@@ -1,0 +1,217 @@
+english	count	first_module	chinese(fill in)	english_meaning
+division	9	m82453	除法	
+monomial	9	m82501	单项式	A monomial is a term of the form axm, where a is a constant and m is a whole number; a monomial has exactly one term.
+binomial	8	m82501	二项式	A binomial is a polynomial with exactly two terms.
+product	7	m82452	积	
+trinomial	7	m82501	三项式	A trinomial is a polynomial with exactly three terms.
+factors	5	m82452	因数	If a·b=m, then aandb are factors of m. Since 3 · 4 = 12, then 3 and 4 are factors of 12.
+decimal	5	m82458	小数	A decimal is another way of writing a fraction whose denominator is a power of ten.
+ordered pair	5	m82480	有序数对	An ordered pair (x,y) gives the coordinates of a point in a rectangular coordinate system.
+number line	4	m82452	数轴	A number line is used to visualize numbers. The numbers on the number line get larger as they go from left to right, and
+prime number	4	m82452	质数	A prime number is a counting number greater than 1, whose only factors are 1 and itself.
+denominator	4	m82452	分母	The denominator is the value on the bottom part of the fraction that indicates the number of equal parts into which the 
+origin	4	m82452	原点	The point (0,0) is called the origin. It is the point where the x-axis and y-axis intersect.
+variable	4	m82453	变量	A variable is a letter that represents a number whose value may change.
+integers	4	m82454	整数	The whole numbers and their opposites are called the integers: ...−3, −2, −1, 0, 1, 2, 3...
+like radicals	4	m82547	同类根式	Radicals with the same index and same radicand are called like radicals.
+place values	3	m82452	位值	
+prime factorization	3	m82452	分解质因数	The prime factorization of a number is the product of prime numbers that equals the number.
+least common multiple	3	m82452	最小公倍数	The least common multiple of two numbers is the smallest number that is a multiple of both numbers.
+constant	3	m82453	常量	A constant is a number whose value always stays the same.
+multiplication	3	m82453	乘法	
+equal sign	3	m82453	等号	
+expression	3	m82453	式子	An expression is a number, a variable, or a combination of numbers and variables using operation symbols.
+absolute value	3	m82454	绝对值	The absolute value of a number is its distance from 0 on the number line. The absolute value of a number n is written as
+reciprocal	3	m82456	倒数	The reciprocal of ab is ba. A number and its reciprocal multiply to one: ab·ba=1.
+fraction	3	m82456	分数	A fraction is written ab, where b≠0 a is the numerator and b is the denominator. A fraction represents parts of a whole.
+percent	3	m82458	百分数	A percent is a ratio whose denominator is 100.
+identity	3	m82467	恒等式	An equation that is true for any value of the variable is called an identity. The solution of an identity is all real nu
+contradiction	3	m82467	矛盾方程	An equation that is false for all values of the variable is called a contradiction. A contradiction has no solution.
+simple interest	3	m82473	单利	Simple interest is the interest earned according to the formula I=Prt.
+discount rate	3	m82473	降价率	The discount rate is the percent used to determine the amount of a discount, common in retail settings.
+rectangular coordinate system	3	m82480	平面直角坐标系	A grid system is used in algebra to show a relationship between two variables; also called the xy-plane or the ‘coordina
+x-coordinate	3	m82480	横坐标	The first number in an ordered pair (x,y).
+y-coordinate	3	m82480	纵坐标	The second number in an ordered pair (x,y).
+linear equation	3	m82480	一次方程	A linear equation is of the form Ax+By=C, where A and B are not both zero, is called a linear equation in two variables.
+geoboard	3	m82483	几何钉板	A geoboard is a board with a grid of pegs on it.
+rise	3	m82483	纵坐标的变化量	The rise of a line is its vertical change.
+run	3	m82483	横坐标的变化量	The run of a line is its horizontal change.
+slope formula	3	m82483	斜率公式	The slope of the line between two points (x1,y1) and (x2,y2) is m=y2−y1x2−x1.
+linear inequality	3	m82488	一次不等式	An inequality that can be written in one of the following forms: Ax+By>CAx+By≥CAx+By<CAx+By≤C where AandB are not both z
+boundary line	3	m82488	边界直线	The line with equation Ax+By=C that separates the region where Ax+By>C from the region where Ax+By<C.
+consistent system	3	m82490	有解方程组	A consistent system of equations is a system of equations with at least one solution.
+polynomial	3	m82501	多项式	A polynomial is a monomial, or two or more monomials combined by addition or subtraction.
+negative exponent	3	m82514	负整数指数	If n is a positive integer and a≠0, then a−n=1an.
+scientific notation	3	m82514	科学记数法	A number is expressed in scientific notation when it is of the form a×10n where a≥1anda<10 and n is an integer.
+greatest common factor	3	m82564	最大公因数(对数字)/最大公因式(对含变量的式子)	The greatest common factor is the largest expression that is a factor of two or more expressions is the greatest common 
+zero product property	3	m82530	零积性质	The Zero Product Property states that, if the product of two quantities is zero, at least one of the quantities is zero.
+rational expression	3	m82532	有理式	A rational expression is an expression of the form pq, where p and q are polynomials and q≠0.
+complex rational expression	3	m82537	繁分式	A complex rational expression is a rational expression in which the numerator or denominator contains a rational express
+rational equation	3	m82538	有理方程	A rational equation is two rational expressions connected by an equal sign.
+proportion	3	m82539	比例	A proportion is an equation of the form ab=cd, where b≠0,d≠0. The proportion is read “a is to b, as c is to d.”
+similar figures	3	m82539	相似图形	Two figures are similar if the measures of their corresponding angles are equal and their corresponding sides are in the
+like square roots	3	m82547	同类二次根式	Square roots with the same radicand are called like square roots.
+radical equation	3	m82551	无理方程	An equation in which the variable is in the radicand of a square root is called a radical equation
+rational exponents	3	m82553	有理数指数	If an is a real number and n≥2, a1n=an. For any positive integers m and n, amn=(an)m and amn=amn.
+square root property	3	m82555	平方根性质	The Square Root Property states that, if x2=k and k≥0, then x=korx=−k.
+discriminant	3	m82557	判别式	In the Quadratic Formula, x=−b±b2−4ac2a the quantity b2−4ac is called the discriminant.
+consecutive even integers	3	m82558	连续偶数	Consecutive even integers are even integers that follow right after one another. If an even integer is represented by n,
+consecutive odd integers	3	m82558	连续奇数	Consecutive odd integers are odd integers that follow right after one another. If an odd integer is represented by n, th
+quadratic equation in two variables	3	m82559	二元二次方程	A quadratic equation in two variables, where a,b,andc are real numbers and a≠0 is an equation of the form y=ax2+bx+c.
+parabola	3	m82559	抛物线	The graph of a quadratic equation in two variables is a parabola.
+axis of symmetry	3	m82559	对称轴	The axis of symmetry is the vertical line passing through the middle of the parabola y=ax2+bx+c.
+vertex	3	m82559	顶点	The point on the parabola that is on the axis of symmetry is called the vertex of the parabola; it is the lowest or high
+composite number	2	m82452	合数	A composite number is a counting number that is not prime. A composite number has factors other than 1 and itself.
+counting numbers	2	m82452	正整数	The counting numbers are the numbers 1, 2, 3, …
+whole numbers	2	m82452	非负整数	The whole numbers are the numbers 0, 1, 2, 3, ....
+equation	2	m82453	方程	An equation is two expressions connected by an equal sign.
+simplify an expression	2	m82453	化简式子	To simplify an expression, do all operations in the expression.
+evaluate an expression	2	m82453	求式子的值	To evaluate an expression means to find the value of the expression when the variable is replaced by a given number.
+term	2	m82453	项	A term is a constant or the product of a constant and one or more variables.
+coefficient	2	m82453	系数	The coefficient of a term is the constant that multiplies the variable in a term.
+like terms	2	m82453	同类项	Terms that are either constants or have the same variables raised to the same powers are called like terms.
+opposite	2	m82454	相反数	The opposite of a number is the number that is the same distance from zero on the number line but on the opposite side o
+quotient	2	m82455	商	
+numerator	2	m82456	分子	The numerator is the value on the top part of the fraction that indicates how many parts of the whole are included.
+equivalent fractions	2	m82456	相等的分数	Equivalent fractions are fractions that have the same value.
+complex fraction	2	m82456	繁分数	A complex fraction is a fraction in which the numerator or the denominator contains a fraction.
+least common denominator	2	m82457	最小公分母	The least common denominator (LCD) of two fractions is the Least common multiple (LCM) of their denominators.
+proper fractions	2	m82458	真分数	
+repeating decimal	2	m82458	循环小数	A repeating decimal is a decimal in which the last digit or group of digits repeats endlessly.
+radical sign	2	m82459	根号	A radical sign is the symbol m that denotes the positive square root.
+principal square root	2	m82459	算术平方根	
+rational number	2	m82459	有理数	A rational number is a number of the form pq, where p and q are integers and q≠0. A rational number can be written as th
+irrational number	2	m82459	无理数	An irrational number is a number that cannot be written as the ratio of two integers. Its decimal form does not stop and
+real number	2	m82459	实数	A real number is a number that is either rational or irrational.
+equivalent decimals	2	m82459	相等的小数	Two decimals are equivalent if they convert to equivalent fractions.
+associative property	2	m82460	结合律	
+additive identity	2	m82460	加法单位元	The additive identity is the number 0; adding 0 to any number does not change its value.
+multiplicative identity	2	m82460	乘法单位元	The multiplicative identity is the number 1; multiplying 1 by any number does not change the value of the number.
+additive inverse	2	m82460	加法逆元	The opposite of a number is its additive inverse. A number and its additive inverse add to 0.
+multiplicative inverse	2	m82460	乘法逆元	The reciprocal of a number is its multiplicative inverse. A number and its multiplicative inverse multiply to one.
+distributive property	2	m82460	分配律	
+solution of an equation	2	m82463	方程的解	A solution of an equation is a value of a variable that makes a true statement when substituted into the equation.
+subtraction property of equality	2	m82463	等式的减法性质	
+addition property of equality	2	m82463	等式的加法性质	
+division property of equality	2	m82464	等式的除法性质	
+conditional equation	2	m82467	条件方程	An equation that is true for one or more values of the variable and false for all other values of the variable is a cond
+principal	2	m82473	本金	The principal is the original amount of money invested or borrowed for a period of time at a specific interest rate.
+interest	2	m82473	利息	Interest is the money that a bank pays its customers for keeping their money in the bank.
+rate of interest	2	m82473	利率	The rate of interest is a percent of the principal, usually expressed as a percent per year.
+amount of discount	2	m82473	降价金额	The amount of discount is the amount resulting when a discount rate is multiplied by the original price of an item.
+original cost	2	m82473	进价	The original cost in a retail setting, is the price that a retailer pays for an item.
+mark-up	2	m82473	加价额	A mark-up is a percentage of the original cost used to increase the price of an item.
+list price	2	m82473	标价	The list price is the price a retailer sells an item for.
+mixture problems	2	m82475	混合问题	Mixture problems combine two or more items with different values together.
+perimeter	2	m82476	周长	
+area	2	m82476	面积	
+quadrant	2	m82480	象限	The x-axis and the y-axis divide a plane into four regions, called quadrants.
+graph of a linear equation	2	m82481	一次方程的图象	The graph of a linear equation Ax+By=C is a straight line. Every point on the line is a solution of the equation. Every 
+vertical line	2	m82481	竖直直线	A vertical line is the graph of an equation of the form x=a. The line passes through the x-axis at (a,0).
+horizontal line	2	m82481	水平直线	A horizontal line is the graph of an equation of the form y=b. The line passes through the y-axis at (0,b).
+intercepts of a line	2	m82482	直线与坐标轴的交点	The points where a line crosses the x- axis and the y- axis are called the intercepts of the line.
+x- intercept	2	m82482	与 x 轴的交点	The point (a,0) where the line crosses the x- axis; the x- intercept occurs when y is zero.
+y-intercept	2	m82482	与 y 轴的交点	The point (0,b) where the line crosses the y- axis; the y- intercept occurs when x is zero.
+slope of a line	2	m82483	直线的斜率	The slope of a line is m=riserun. The rise measures the vertical change and the run measures the horizontal change.
+positive slope	2	m82483	正斜率	A positive slope of a line goes up as you read from left to right.
+negative slope	2	m82483	负斜率	A negative slope of a line goes down as you read from left to right.
+parallel lines	2	m82485	平行直线	Lines in the same plane that do not intersect.
+perpendicular lines	2	m82485	垂直直线	Lines in the same plane that form a right angle.
+point–slope form	2	m82486	点斜式	The point–slope form of an equation of a line with slope m and containing the point (x1,y1) is y−y1=m(x−x1).
+solution of a linear inequality	2	m82488	一次不等式的解	An ordered pair (x,y) is a solution to a linear inequality the inequality is true when we substitute the values of x and
+coincident lines	2	m82490	重合直线	Coincident lines are lines that have the same slope and same y-intercept.
+inconsistent system	2	m82490	无解方程组	An inconsistent system of equations is a system of equations with no solution.
+independent equations	2	m82490	独立方程	Two equations are independent if they have different solutions.
+dependent equations	2	m82490	相依方程	Two equations are dependent if all the solutions of one equation are also solutions of the other equation.
+complementary angles	2	m82497	互余的角	Two angles are complementary if the sum of the measures of their angles is 90 degrees.
+supplementary angles	2	m82497	互补的角	Two angles are supplementary if the sum of the measures of their angles is 180 degrees.
+system of linear inequalities	2	m82499	一次不等式组	Two or more linear inequalities grouped together form a system of linear inequalities.
+degree of a term	2	m82501	项的次数	The degree of a term is the exponent of its variable.
+degree of a constant	2	m82501	常数的次数	The degree of any constant is 0.
+degree of a polynomial	2	m82501	多项式的次数	The degree of a polynomial is the highest degree of all its terms.
+standard form	2	m82501	降幂排列形式	A polynomial is in standard form when the terms of a polynomial are written in descending order of degrees.
+conjugate pair	2	m82508	共轭式	A conjugate pair is two binomials of the form (a−b),(a+b); the pair of binomials each have the same first term and the s
+factoring	2	m82564	因式分解	Factoring is splitting a product into factors; in other words, it is the reverse process of multiplying.
+perfect square trinomials pattern	2	m82528	完全平方式分解公式	If a and b are real numbers, a2+2ab+b2=(a+b)2a2−2ab+b2=(a−b)2
+sum and difference of cubes pattern	2	m82528	立方和与立方差公式	a3+b3=(a+b)(a2−ab+b2)a3−b3=(a−b)(a2+ab+b2)
+quadratic equations	2	m82530	一元二次方程	are equations in which the variable is squared.
+extraneous solution to a rational equation	2	m82538	有理方程的增根	An extraneous solution to a rational equation is an algebraic solution that would cause any of the expressions in the or
+rationalizing the denominator	2	m82550	分母有理化	The process of converting a fraction with a radical in the denominator to an equivalent fraction whose denominator is an
+nth root of a number	2	m82552	一个数的 n 次方根	If bn=a, then b is an nth root of a.
+index	2	m82552	根指数	an n is called the index of the radical.
+principal nth root	2	m82552	n 次主根	The principal nth root of a is written an.
+quadratic equation	2	m82555	一元二次方程	A quadratic equation is an equation of the form ax2+bx+c=0, where a≠0.
+completing the square	2	m82556	配方法	Completing the square is a method used to solve quadratic equations.
+x-intercepts of a parabola	2	m82559	抛物线与 x 轴的交点	The x-intercepts are the points on the parabola where y=0.
+counting number	1	m82452	正整数	
+whole number	1	m82452	非负整数	
+number system	1	m82452	数系	
+rounding	1	m82452	四舍五入	
+multiples	1	m82452	倍数	
+divisible	1	m82452	可整除的	
+divisible by a number	1	m82452	能被某数整除	If a number m is a multiple of n, then m is divisible by n. (If 6 is a multiple of 3, then 6 is divisible by 3.)
+multiple of a number	1	m82452	某数的倍数	A number is a multiple of n if it is the product of a counting number and n.
+operations	1	m82453	运算	
+addition	1	m82453	加法	
+subtraction	1	m82453	减法	
+grouping symbols	1	m82453	括号	
+order of operations	1	m82453	运算顺序	
+equality symbol	1	m82453	等号	The symbol “=” is called the equal sign. We read a=b as “a is equal to b.”
+negative numbers	1	m82454	负数	
+neutral pairs	1	m82454	零对	
+subtraction property	1	m82454	减法法则	
+simplified	1	m82456	已化简的	
+multiplying fractions	1	m82456	分数乘法	
+fraction bar	1	m82456	分数线	
+ratio	1	m82456	比	
+simplified fraction	1	m82456	最简分数	A fraction is considered simplified if there are no common factors in its numerator and denominator.
+fraction operations	1	m82457	分数运算	
+square	1	m82459	平方	
+square root	1	m82459	平方根	
+irrational	1	m82459	无理的	
+improper fractions	1	m82459	假分数	
+square and square root	1	m82459	平方与平方根	If n2=m, then m is the square of n and n is a square root of m.
+commutative property	1	m82460	交换律	
+identity property of addition	1	m82460	加法单位元性质	
+identity property of multiplication	1	m82460	乘法单位元性质	
+inverse property of addition	1	m82460	加法逆元性质	
+inverse property of multiplication	1	m82460	乘法逆元性质	
+u.s. system	1	m82461	美制单位制	
+metric system	1	m82461	公制	
+simplification	1	m82463	化简	
+equals sign	1	m82463	等号	
+multiplication property of equality	1	m82464	等式的乘法性质	
+variables	1	m82465	变量	
+interval notation	1	m82470	区间表示法	
+percent increase	1	m82473	增长率	
+percent decrease	1	m82473	下降率	
+vertices	1	m82476	顶点	
+right triangle	1	m82476	直角三角形	
+pythagorean theorem	1	m82476	勾股定理	
+rectangle	1	m82476	长方形	
+elapsed time	1	m82477	经过的时间	
+profit	1	m82478	利润	
+x- intercept of a line	1	m82482	直线与 x 轴的交点	
+y- intercept of a line	1	m82482	直线与 y 轴的交点	
+y- intercept	1	m82482	与 y 轴的交点	
+point–slope method	1	m82483	点斜作图法	
+slope–intercept form	1	m82485	斜截式	
+perpendicular	1	m82485	垂直	
+slope-intercept form of an equation of a line	1	m82485	直线方程的斜截式	The slope–intercept form of an equation of a line with slope m and y-intercept, (0,b) is, y=mx+b.
+systems of linear equations	1	m82490	一次方程组	
+solutions to a system of equations	1	m82490	方程组的解	
+an inconsistent system	1	m82490	无解方程组	
+independent	1	m82490	独立的	
+dependent	1	m82490	相依的	
+solutions of a system of equations	1	m82490	方程组的解	Solutions of a system of equations are the values of the variables that make all the equations true. A solution of a sys
+system of linear equations	1	m82490	一次方程组	When two or more linear equations are grouped together, they form a system of linear equations.
+elimination method	1	m82495	消元法	
+prime polynomials	1	m82527	不可约多项式	Polynomials that cannot be factored are prime polynomials.
+difference of squares	1	m82528	平方差	
+difference of squares pattern	1	m82528	平方差公式	If a and b are real numbers,
+square of a number	1	m82545	一个数的平方	If n2=m, then m is the square of n
+square root of a number	1	m82545	一个数的平方根	If n2=m, then n is a square root of m
+square root notation	1	m82545	平方根的表示法	If m=n2, then m=n. We read m as ‘the square root of m.’
+rationalize	1	m82555	有理化	
+x-intercept	1	m82559	与 x 轴的交点	
+y-intercept of a parabola	1	m82559	抛物线与 y 轴的交点	The y-intercept is the point on the parabola where x=0.
