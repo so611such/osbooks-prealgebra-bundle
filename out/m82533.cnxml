@@ -1,0 +1,1257 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>有理式的乘法与除法</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m82533</md:content-id>
+  <md:title>有理式的乘法与除法</md:title>
+  <md:abstract><para id="para-00001">学完本节后，你将能够：</para>
+<list id="list-00001">
+<item>进行有理式的乘法运算</item>
+<item>进行有理式的除法运算</item>
+</list></md:abstract>
+  <md:uuid>293808cd-9b7e-494b-90e8-38acd2b23bd4</md:uuid>
+</metadata>
+
+<content>
+<note id="fs-id1169595180212" class="be-prepared">
+<para id="fs-id1169595174887">开始学习前，请先完成以下预备测验。</para>
+<para id="fs-id1169597495042">如果有题目做错，请返回所列小节复习相关内容。</para>
+<exercise id="fs-idm620486896">
+<problem id="fs-idm218710592">
+<para id="fs-idm211601392">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>6</m:mn><m:mrow><m:mn>35</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math><newline/>
+如果这道题做错了，请复习<link document="m82456" target-id="fs-id1170652633002"/>。</para>
+</problem>
+<solution id="fs-idm220036944">
+<para id="fs-idm194657168"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-idm194703424" class="be-prepared">
+<exercise id="fs-idm174778144">
+<problem id="fs-idm225459008">
+<para id="fs-idm171914368">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>6</m:mn><m:mrow><m:mn>35</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math><newline/>
+如果这道题做错了，请复习<link document="m82456" target-id="fs-id1170654212332"/>。</para>
+</problem>
+<solution id="fs-idm221264464">
+<para id="fs-idm219553712"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>49</m:mn></m:mrow><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-idm194473552" class="be-prepared">
+<exercise id="fs-idm206810480">
+<problem id="fs-idm172077664">
+<para id="fs-idm217574448">彻底因式分解：<m:math><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>98</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+如果这道题做错了，请复习<link document="m82529" target-id="fs-id1168343007681"/>。</para>
+</problem>
+<solution id="fs-idm184992896">
+<para id="fs-idm229200048"><m:math><m:mrow><m:mn>2</m:mn><m:mfenced><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow></m:mfenced><m:mfenced><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>7</m:mn></m:mrow></m:mfenced></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-idm194462928" class="be-prepared">
+<exercise id="fs-idm618679888">
+<problem id="fs-idm229587664">
+<para id="fs-idm175554784">彻底因式分解：<m:math><m:mrow><m:mn>10</m:mn><m:msup><m:mi>n</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mo>.</m:mo></m:mrow></m:math><newline/>
+如果这道题做错了，请复习<link document="m82529" target-id="fs-id1168344323847"/>。</para>
+</problem>
+<solution id="fs-idm216560864">
+<para id="fs-idm233006944"><m:math><m:mrow><m:mn>10</m:mn><m:mfenced><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mfenced><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-idm229147808" class="be-prepared">
+<exercise id="fs-idm185706800">
+<problem id="fs-idm228974496">
+<para id="fs-idm234952864">彻底因式分解：<m:math><m:mrow><m:mn>10</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>−</m:mo><m:mn>15</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math><newline/>
+如果这道题做错了，请复习<link document="m82529" target-id="fs-id1168344316276"/>。</para>
+</problem>
+<solution id="fs-idm213469920">
+<para id="fs-idm206784560"><m:math><m:mrow><m:mn>5</m:mn><m:mfenced><m:mrow><m:mn>2</m:mn><m:mi>p</m:mi><m:mo>+</m:mo><m:mi>q</m:mi></m:mrow></m:mfenced><m:mfenced><m:mrow><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>q</m:mi></m:mrow></m:mfenced></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<section id="fs-id1169597485048">
+<title>有理式的乘法</title>
+<para id="fs-id1169597532281">有理式的乘法与数值分数的乘法相同。把分子相乘，分母相乘。然后，如果有公因式，就约去公因式，化简结果。</para>
+<note id="fs-id1169597808799">
+<title>有理式的乘法</title>
+<para id="fs-id1169595306168">如果<m:math><m:mrow><m:mi>p</m:mi><m:mo>,</m:mo><m:mi>q</m:mi><m:mo>,</m:mo><m:mi>r</m:mi><m:mo>,</m:mo><m:mi>s</m:mi></m:mrow></m:math>是多项式，且<m:math><m:mrow><m:mi>q</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mi>s</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math>，那么</para>
+<equation id="fs-id1169597367908" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mi>p</m:mi><m:mi>q</m:mi></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mi>r</m:mi><m:mi>s</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>p</m:mi><m:mi>r</m:mi></m:mrow><m:mrow><m:mi>q</m:mi><m:mi>s</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1169597740726">有理式相乘，把分子相乘，分母相乘。</para>
+</note>
+<para id="fs-id1169595308090">第一个例题使用数值分数，帮助我们回顾不含变量的分数乘法。</para>
+<example id="fs-id1169597529542">
+<exercise id="fs-id1169597528025">
+<problem id="fs-id1169595312832">
+<para id="fs-id1169597414519">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>28</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>8</m:mn><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597349843">
+<title>解</title>
+<para id="fs-id1169597751940"><table id="eip-id1167836522085" class="unnumbered unstyled can-break" aria-label="The above image shows the steps to multiply the numerical fractions 10 twenty eighths times 8 fifteenths. Multiply the numerators and denominators to get 10 times 8 divided by 28 times 15. Look for the common factors, and then remove them. The common factors are 5 and 4. Divide 5 by 10 in the numerator to get 2, and 5 by 15 in the denominator get 3. Divide 4 by 8 in the numerator to get 2, and 4 by 28 in the denominator to get 7. The rational expression should now read 2 times 2 divided by 7 times 3. Simplify to get 4 twenty firsts.">
+<label/><tgroup cols="2">
+ <tbody>
+  <row>
+    <entry/>
+    <entry><media id="eip-id1167836522104" alt="The image displays the multiplication of two fractions: 10/28 multiplied by 8/15, represented as (10/28)   (8/15)."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_001a_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>把分子相乘，分母相乘。</entry>
+    <entry><media id="eip-id1167836552225" alt="A mathematical expression displaying the fraction (10 multiplied by 8) divided by (28 multiplied by 15)."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_001b_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>找出公因数，然后约去。</entry>
+    <entry><media id="eip-id1167836552241" alt="A mathematical fraction is shown with terms being cancelled out. In the numerator, 5 and 4 are crossed out, leaving 2 multiplied by 2. In the denominator, 4 and 5 are crossed out, leaving 7 multiplied by 3."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_001c_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>化简。</entry>
+    <entry><media id="eip-id1167836552258" alt="The fraction 4/21 is displayed on a white background, with 4 as the numerator and 21 as the denominator, separated by a horizontal line."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_001d_img_new.jpg"/></media></entry>
+  </row>
+ </tbody>
+
+</tgroup>
+</table></para></solution>
+</exercise>
+</example>
+<note id="fs-id1169597540040" class="try">
+<exercise id="fs-id1169597400834">
+<problem id="fs-id1169597522078">
+<para id="fs-id1169595312858">乘：<m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597379482">
+<para id="fs-id1169597466883"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169595221452" class="try">
+<exercise id="fs-id1169597617970">
+<problem id="fs-id1169597528290">
+<para id="fs-id1169597540734">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>20</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>6</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597535547">
+<para id="fs-id1169597517791"><m:math><m:mn>1</m:mn></m:math></para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1169597335937">请记住，在本章中，我们都假定排除了所有使分母为零的数值。我们不会为每个有理式都写出这些限制条件，但要牢记分母不能为零。因此，在下一个例题中，<m:math><m:mrow><m:mi>x</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math>且<m:math><m:mrow><m:mi>y</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math>。</para>
+<example id="fs-id1169597420188">
+<exercise id="fs-id1169597504181">
+<problem id="fs-id1169597526396">
+<para id="fs-id1169597491773">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow><m:mrow><m:mn>3</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>6</m:mn><m:mi>x</m:mi><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mi>y</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597467457">
+<title>解</title>
+<para id="fs-id1169597373977"><table id="eip-id1167835344023" class="unnumbered unstyled" aria-label="The above image shows the steps to multiply the numerical fractions 10 twenty eighths times 8 fifteenths. Multiply the numerators and denominators to get 10 times 8 divided by 28 times 15. Look for the common factors, and then remove them. The common factors are 5 and 4. Divide 5 by 10 in the numerator to get 2, and 5 by 15 in the denominator get 3. Divide 4 by 8 in the numerator to get 2, and 4 by 28 in the denominator to get 7. The rational expression should now read 2 times 2 divided by 7 times 3. Simplify to get 4 twenty firsts."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry/>
+    <entry><media id="eip-id1167835344042" alt="A mathematical expression showing the product of two fractions: (2x / 3y^2) multiplied by (6xy^3 / x^2y)."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_002a_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>相乘。</entry>
+    <entry><media id="eip-id1167835344059" alt="An algebraic fraction is displayed with the numerator '2x multiplied by 6xy^3' and the denominator '3y^2 multiplied by x^2y'."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_002b_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>将分子、分母彻底因式分解，然后约去公因式。</entry>
+    <entry><media id="eip-id1167835344076" alt="A mathematical fraction showing simplification. Common factors like 'x', 'B', and 'y' are struck through in red from both the numerator and denominator, illustrating term cancellation."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_002c_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>化简。</entry>
+    <entry><media id="fs-id1167832927571" alt="The number 4 in black against a white background."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_002d_img_new.jpg"/></media></entry>
+  </row>
+ </tbody>
+
+
+</tgroup>
+</table></para></solution>
+</exercise>
+</example>
+<note id="fs-id1169597477126" class="try">
+<exercise id="fs-id1169597579547">
+<problem id="fs-id1169597493630">
+<para id="fs-id1169597441621">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>p</m:mi><m:mi>q</m:mi></m:mrow><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mi>q</m:mi></m:mrow><m:mrow><m:mn>6</m:mn><m:mi>p</m:mi><m:mi>q</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597448523">
+<para id="fs-id1169597364356"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>q</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+</note>
+<note id="fs-id1169595120656" class="try">
+<exercise id="fs-id1169595224146">
+<problem id="fs-id1169597374544">
+<para id="fs-id1169597411392">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mi>y</m:mi></m:mrow><m:mrow><m:mn>7</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mi>y</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597466310">
+<para id="fs-id1169597408975"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1169597380998">
+<title>如何进行有理式的乘法运算</title>
+<exercise id="fs-id1169597456920">
+<problem id="fs-id1169595306187">
+<para id="fs-id1169597446214">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597514121">
+<title>解</title>
+<media id="fs-id1169597625979" alt="The above image has three columns and three rows to show how to multiply rational expressions. Step one is to factor each numerator and denominator completely. Factor x squared minus 9 and x squared minus 7 x plus 12. The rational equation is 2x divided by x squared plus x plus 12 times x squared minus 9 divided by 6x squared, then to 2x divided by x minus 3 times x minus 4 times x minus 3 times x plus 3 divided by 6x squared.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_08_02_003a_img_new.jpg"/>
+</media>
+<media id="fs-id1169597564468" alt="Step 2 is to multiply the numerators and denominators. It is helpful to multiply the monomials first. Multiply 2x times x minus 3 times x plus 3 divided by 6x squared times x minus 3 times x minus 4.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_08_02_003b_img_new.jpg"/>
+</media>
+<media id="fs-id1169597447985" alt="Step 3 is to divide out the common factors, canceling out 2, x, and x minus 3 in the numerator and 2, x and x minus 3 in the denominator. Leave the denominator in factored form to get x plus 3 divided by 3x times x minus 4.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_08_02_003c_img_new.jpg"/>
+</media>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1169597570195" class="try">
+<exercise id="fs-id1169597460475">
+<problem id="fs-id1169595666048">
+<para id="fs-id1169597383736">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>10</m:mn><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597691423">
+<para id="fs-id1169595306831"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169595662984" class="try">
+<exercise id="fs-id1169597690891">
+<problem id="fs-id1169597359683">
+<para id="fs-id1169597395302">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>9</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>11</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>30</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>36</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597395570">
+<para id="fs-id1169595221350"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597821219" class="howto">
+<title>进行有理式的乘法运算。</title>
+<list id="fs-id1169597713175" list-type="enumerated" number-style="arabic" class="stepwise">
+<item>将每个分子、分母彻底因式分解。</item>
+<item>把分子相乘，分母相乘。</item>
+<item>约去公因式，进行化简。</item>
+</list>
+</note>
+<example id="fs-id1169597364441"><exercise id="fs-id1169597406596">
+<problem id="fs-id1169597441730">
+<para id="fs-id1169597823804">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>n</m:mi></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597409499">
+<title>解</title>
+<para id="fs-id1169597448020"><table id="fs-idm339445824" class="unnumbered unstyled" summary="Step-by-step simplification of a rational algebraic expression.">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry/>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>n</m:mi></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">将每个分子、分母因式分解。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>n</m:mi><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>n</m:mi></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">把分子相乘，分母相乘。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>n</m:mi><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn><m:mi>n</m:mi></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">约去公因式。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:menclose notation="updiagonalstrike"><m:mi>n</m:mi></m:menclose><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:mn>2</m:mn><m:menclose notation="updiagonalstrike"><m:mi>n</m:mi></m:menclose></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="top" align="left">化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+
+</solution>
+</exercise>
+</example><note id="fs-id1169597682229" class="try">
+<exercise id="fs-id1169597522122">
+<problem id="fs-id1169597460183">
+<para id="fs-id1169597352013">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mi>x</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597526012">
+<para id="fs-id1169595186008"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow><m:mi>x</m:mi></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597767778" class="try">
+<exercise id="fs-id1169597682130">
+<problem id="fs-id1169597713364">
+<para id="fs-id1169595220395">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>x</m:mi></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mi>x</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597702104">
+<para id="fs-id1169597530953"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1169597490721"><exercise id="fs-id1169597503491">
+<problem id="fs-id1169597447406">
+<para id="fs-id1169597407147">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>16</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>x</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597555610">
+<title>解</title>
+<para id="fs-id1169597481397"><table id="fs-idm344537760" class="unnumbered unstyled" summary="This table illustrates the step-by-step simplification of a rational algebraic expression through factoring and canceling common terms."><label/>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry/>
+<entry valign="top" align="center"><m:math><m:mfrac><m:mrow><m:mn>16</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>x</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">将每个分子、分母因式分解。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mo>−</m:mo><m:mi>x</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">把分子相乘，分母相乘。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mo>−</m:mo><m:mi>x</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">约去公因式。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mfrac><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mo>·</m:mo><m:mn>2</m:mn><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>4</m:mn><m:mo>−</m:mo><m:mi>x</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></para>
+</solution>
+</exercise>
+</example><note id="fs-id1169597704040" class="try">
+<exercise id="fs-id1169595105433">
+<problem id="fs-id1169597690427">
+<para id="fs-id1169597740691">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>11</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>24</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597414532">
+<para id="fs-id1169597479452"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597517388" class="try">
+<exercise id="fs-id1169597581374">
+<problem id="fs-id1169597464860">
+<para id="fs-id1169595147419">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>9</m:mn><m:mi>v</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>9</m:mn><m:mi>v</m:mi><m:mo>+</m:mo><m:mn>36</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>v</m:mi><m:mo>+</m:mo><m:mn>12</m:mn></m:mrow><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597625840">
+<para id="fs-id1169595220456"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mi>v</m:mi><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1169595177896">
+<exercise id="fs-id1169597820940">
+<problem id="fs-id1169597878383">
+<para id="fs-id1169595108694">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597704589">
+<title>解</title>
+<para id="fs-id1169597508872"><table id="eip-id1167836627071" class="unnumbered unstyled" aria-label="The above image shows how to multiply a rational expression for 2x minus 6 divided by x squared minus 8x plus 15 times x squared minus 25 divided by 2x plus 10. Factor each numerator and denominator to get 2 times x minus 3 divided by x minus 3 times x minus 5 times x minus 5 times x plus 5 divided by 2 times x plus 5. Multiply the numerators and denominators to get 2 times x minus 3 times x minus 5 times x plus 5 divided by 2 times x minus 3 times x minus 5 times x plus 5. Remove common factors 2, x minus 3, x minus 5 and x plus 5 in the numerator and denominator . Simplify to get 1."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry/>
+    <entry><media id="eip-id1167836627090" alt="A mathematical expression showing the multiplication of two algebraic fractions: (2x-6)/(x^2-8x+15) * (x^2-25)/(2x+10)."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_004a_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>将每个分子、分母因式分解。</entry>
+    <entry><media id="eip-id1167836627108" alt="An algebraic expression illustrating the multiplication of two rational fractions: 2(x-3) over (x-3)(x-5) multiplied by (x-5)(x+5) over 2(x+5)."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_004b_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>把分子相乘，分母相乘。</entry>
+    <entry><media id="eip-id1167836627125" alt="The image displays a rational expression where the numerator and denominator are identical: 2(x-3)(x-5)(x+5) divided by 2(x-3)(x-5)(x+5). This expression simplifies to 1."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_004c_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>约去公因式。</entry>
+    <entry><media id="eip-id1167836627142" alt="A fraction displays identical algebraic expressions in the numerator and denominator, with Z, (x-3), (x-5), and (x+5) terms all struck through, demonstrating cancellation."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_004d_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>化简。</entry>
+    <entry><media id="eip-id1167836627159" alt="1"><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_004e_img_new.jpg"/></media></entry>
+  </row>
+ </tbody>
+</tgroup>
+</table></para></solution>
+</exercise>
+</example>
+<note id="fs-id1169597465630" class="try">
+<exercise id="fs-id1169597529980">
+<problem id="fs-id1169597771090">
+<para id="fs-id1169597876846">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>21</m:mn></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>14</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595308025">
+<para id="fs-id1169597808413"><m:math><m:mn>1</m:mn></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597555482" class="try">
+<exercise id="fs-id1169597638274">
+<problem id="fs-id1169597576247">
+<para id="fs-id1169595231896">乘：<m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>b</m:mi></m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>100</m:mn></m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>10</m:mn><m:mi>b</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597393014">
+<para id="fs-id1169597465842">1</para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id1169595235043">
+<title>有理式的除法</title>
+<para id="fs-id1169597506449">有理式相除，将第一个分数乘以第二个分数的倒数，与数值分数的除法相同。</para>
+<para id="fs-id1169597805533">请记住，<m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:math>的<emphasis effect="bold">倒数</emphasis>是<m:math><m:mrow><m:mfrac><m:mi>b</m:mi><m:mi>a</m:mi></m:mfrac></m:mrow></m:math>。求倒数时，只需把分子放到分母的位置，把分母放到分子的位置，也就是把分数“颠倒”过来。</para>
+<note id="fs-id1169597822928">
+<title>有理式的除法</title>
+<para id="fs-id1169597419690">如果<m:math><m:mrow><m:mi>p</m:mi><m:mo>,</m:mo><m:mi>q</m:mi><m:mo>,</m:mo><m:mi>r</m:mi><m:mo>,</m:mo><m:mi>s</m:mi></m:mrow></m:math>是多项式，且<m:math><m:mrow><m:mi>q</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>r</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>s</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math>，那么</para>
+<equation id="fs-id1169595096843" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mi>p</m:mi><m:mi>q</m:mi></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mi>r</m:mi><m:mi>s</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>p</m:mi><m:mi>q</m:mi></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mi>s</m:mi><m:mi>r</m:mi></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1169595178571">有理式相除，将第一个分数乘以第二个分数的倒数。</para>
+</note>
+<example id="fs-id1169597422097">
+<title>如何进行有理式的除法运算</title>
+<exercise id="fs-id1169597403539">
+<problem id="fs-id1169597569569">
+<para id="fs-id1169597518204">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>9</m:mn></m:mrow><m:mrow><m:mn>6</m:mn><m:mo>−</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>81</m:mn></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595113466">
+<title>解</title>
+<media id="fs-id1169597415060" alt="The above image has three columns. It shows the steps to divide rational expressions. Step one is to rewrite the division as the product of the first rational expression and the reciprocal of the second for x plus 9 divided by 6 minus x divided by x squared minus 81 divided by x minus 6. “Flip” the second fraction and change the division sign to multiplication to get x plus 9 divided by 6 minus x times x minus 6 divided by x squared minus 81.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_08_02_005a_img_new.jpg"/>
+</media>
+<media id="fs-id1169597824134" alt="Step two is to factor the numerators and denominators completely. Factor x squared minus 81 to get x plus 9 divided by 6 minus x times x minus 6 divided by x minus 9 times x plus 9.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_08_02_005b_img_new.jpg"/>
+</media>
+<media id="fs-id1169595105187" alt="Step three is to multiply the numerators and denominators to get x plus 9 times x minus 6 divided by 6 minus x times x minus 9 times x plus 9.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_08_02_005c_img_new.jpg"/>
+</media>
+<media id="fs-id1169597445664" alt="Step four is to simplify by dividing out common factors. Divide out the common factors x plus 9, x minus 6 from the numerator and 6 minus x and x plus 9 from the denominator. Remember opposites divide to negative 1. This simplifies to negative 1 divided by x minus 9.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_08_02_005d_img_new.jpg"/>
+</media>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1169595173689" class="try">
+<exercise id="fs-id1169595144845">
+<problem id="fs-id1169595096765">
+<para id="fs-id1169597415182">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>5</m:mn><m:mo>−</m:mo><m:mi>c</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow><m:mrow><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597701630">
+<para id="fs-id1169595178162"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169595176718" class="try">
+<exercise id="fs-id1169595149317">
+<problem id="fs-id1169595180104">
+<para id="fs-id1169597810234">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo>−</m:mo><m:mi>d</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo>−</m:mo><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mo>−</m:mo><m:mi>d</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595222840">
+<para id="fs-id1169595186991"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo><m:mi>d</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597713072" class="howto">
+<title>进行有理式的除法运算。</title>
+<list id="fs-id1169595176695" list-type="enumerated" number-style="arabic" class="stepwise">
+<item>将除法改写成第一个有理式与第二个有理式的倒数的积。</item>
+<item>将分子、分母彻底因式分解。</item>
+<item>把分子相乘，分母相乘。</item>
+<item>约去公因式，进行化简。</item>
+</list>
+</note>
+<example id="fs-id1169595655893">
+<exercise id="fs-id1169595308554">
+<problem id="fs-id1169597722865">
+<para id="fs-id1169597722868">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>n</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>9</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>45</m:mn><m:mi>n</m:mi></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597781941">
+<title>解</title>
+<para id="fs-id1169597880167"><table id="eip-id1167835367316" class="unnumbered unstyled" aria-label="The above image shows the steps to divide rational expressions. Rewrite the division as the product of the first rational expression and the reciprocal of the second for 3 n squared divided n squared minus 4 n times n squared minus 7 n plus 10 divided by 9 n squared minus 45 n. Factor the numerators and denominators and then multiply to get 3 times n times n times n minus 5 times n minus 2 divided by n time n minus 4 times 3 times 3 times n times n minus 5. Simplify by dividing out common factors. Cross out 3, n, n, n minus 5 from the numerator and the denominator to get n minus 2 divided by 3 times n minus 4."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry/>
+    <entry><media id="eip-id1167835367335" alt="A mathematical expression showing the division of two algebraic fractions. The first fraction is 3n^2 over n^2 - 4n, and the second is 9n^2 - 45n over n^2 - 7n + 10."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_006a_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>将除法改写成第一个有理式与第二个有理式的倒数的积。</entry>
+    <entry><media id="eip-id1167835367353" alt="A mathematical problem showing the multiplication of two rational expressions. The first expression is 3n^2 divided by n^2 minus 4n. The second expression is n^2 minus 7n plus 10 divided by 9n^2 minus 45n."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_006b_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>将分子、分母因式分解，然后相乘。</entry>
+    <entry><media id="eip-id1167835367370" alt="A mathematical expression showing a fraction. The numerator is 3 * n * n * (n - 5)(n - 2). The denominator is n(n - 4) * 3 * 3 * n * (n - 5)."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_006c_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>约去公因式，进行化简。</entry>
+    <entry><media id="eip-id1167835367386" alt="An algebraic fraction undergoing simplification, with identical terms 'B', 'n', and 'n(n-5)' struck through in red in both the numerator and denominator."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_006d_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry/>
+    <entry><media id="eip-id1167835367402" alt="A mathematical expression showing the fraction (n-2) divided by 3(n-4)."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_006e_img_new.jpg"/></media></entry>
+  </row>
+ </tbody>
+
+
+</tgroup>
+</table></para></solution>
+</exercise>
+</example>
+<note id="fs-id1169595665617" class="try">
+<exercise id="fs-id1169595189971">
+<problem id="fs-id1169597540340">
+<para id="fs-id1169597540342">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>m</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>8</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>24</m:mn><m:mi>m</m:mi></m:mrow><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597682009">
+<para id="fs-id1169597682011"><m:math><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597692759" class="try">
+<exercise id="fs-id1169595098114">
+<problem id="fs-id1169597874596">
+<para id="fs-id1169597874598">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>15</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>33</m:mn><m:mi>n</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>22</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597816156">
+<para id="fs-id1169597816158"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">(</m:mo><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1169597505653">请记住，先将除法改写成第一个式子乘以第二个式子的倒数。然后将各式因式分解，找出公因式。</para>
+<example id="fs-id1169595176543"><exercise id="fs-id1169595176545">
+<problem id="fs-id1169595184795">
+<para id="fs-id1169595184797">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>13</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>15</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597752240">
+<title>解</title>
+<para id="fs-id1169597701324"><table id="fs-idm336254768" class="unnumbered unstyled" summary="Step-by-step simplification of the division of two rational expressions through factoring and canceling common terms.">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry/>
+<entry valign="top" align="center"><m:math><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>13</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>15</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">将除法改写成<newline/>第一个式子乘以第二个式子的倒数。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>16</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>13</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>15</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">将分子、分母因式分解，然后相乘。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">约去公因式，进行化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+
+</solution>
+</exercise>
+</example><note id="fs-id1169597691341" class="try">
+<exercise id="fs-id1169597691344">
+<problem id="fs-id1169597767926">
+<para id="fs-id1169597767929">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>14</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>25</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595120155">
+<para id="fs-id1169597879137"><m:math><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597751748" class="try">
+<exercise id="fs-id1169595222782">
+<problem id="fs-id1169595222784">
+<para id="fs-id1169595222786">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>1</m:mn><m:mo>−</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>15</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>b</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595222429">
+<para id="fs-id1169595175960"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<example id="fs-id1169595308070"><exercise id="fs-id1169595308072">
+<problem id="fs-id1169595308074">
+<para id="fs-id1169595122781">除：<m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mn>6</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595120842">
+<title>解</title>
+<para id="fs-id1169595230762"><table id="fs-idm300049456" class="unnumbered unstyled" summary="Detailed steps for simplifying a rational algebraic expression through division, multiplication, factoring, and canceling common terms.">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry/>
+<entry valign="top" align="center"><m:math><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mn>6</m:mn></m:mfrac></m:math></entry>
+</row>
+<row>
+<entry valign="top" align="left">将除法改写成<newline/>第一个式子乘以<newline/>第二个式子的倒数。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>6</m:mn><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">将分子、分母因式分解，然后相乘。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>p</m:mi><m:mo>+</m:mo><m:mi>q</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>p</m:mi><m:mo>−</m:mo><m:mi>q</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>p</m:mi><m:mo>+</m:mo><m:mi>q</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">约去公因式，进行化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>p</m:mi><m:mo>+</m:mo><m:mi>q</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:msup><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>6</m:mn></m:menclose></m:mrow><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>p</m:mi><m:mo>−</m:mo><m:mi>q</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>p</m:mi><m:mo>+</m:mo><m:mi>q</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>p</m:mi><m:mo>−</m:mo><m:mi>q</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+
+</solution>
+</exercise>
+</example><note id="fs-id1169595174848" class="try">
+<exercise id="fs-id1169597533010">
+<problem id="fs-id1169597533012">
+<para id="fs-id1169597533014">除：<m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mn>6</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595120166">
+<para id="fs-id1169595274435"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597701850" class="try">
+<exercise id="fs-id1169597701853">
+<problem id="fs-id1169595147258">
+<para id="fs-id1169595147260">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>z</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>z</m:mi></m:mrow><m:mrow><m:msup><m:mi>z</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595217603">
+<para id="fs-id1169595217605"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>z</m:mi><m:mo stretchy="false">(</m:mo><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1169597872939">在做下一个例题之前，先来看看如何用分数除以非负整数。计算<m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>4</m:mn></m:mrow></m:math>时，先将4写成分数，以便求出它的倒数。</para>
+<equation id="fs-id1169597371478" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>4</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>1</m:mn></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1169595186336">有理式相除时，我们也采用同样的方法。</para>
+<example id="fs-id1169595186339"><exercise id="fs-id1169595186341">
+<problem id="fs-id1169597691674">
+<para id="fs-id1169597691676">除：<m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mi>b</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mi>b</m:mi><m:mo>+</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595310292">
+<title>解</title>
+<para id="fs-id1169595310297"><table id="fs-idm324162672" class="unnumbered unstyled" summary="Step-by-step simplification of an algebraic rational expression using division, factoring, and common factor cancellation.">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry/>
+<entry valign="top" align="center"><m:math><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mi>b</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mi>b</m:mi><m:mo>+</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">将第二个式子写成分数。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mi>b</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mi>b</m:mi><m:mo>+</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="top" align="left">将除法改写成第一个<newline/>式子乘以第二个<newline/>式子的倒数。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mi>b</m:mi></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mi>b</m:mi><m:mo>+</m:mo><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="top" align="left">将分子、<newline/>分母因式分解，然后相乘。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>−</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>·</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mi>b</m:mi><m:mo>·</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">约去公因式，进行化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>−</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mi>b</m:mi><m:mo>·</m:mo><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>−</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>a</m:mi><m:mi>b</m:mi><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+
+</solution>
+</exercise>
+</example><note id="fs-id1169597359797" class="try">
+<exercise id="fs-id1169597359800">
+<problem id="fs-id1169597359802">
+<para id="fs-id1169597359804">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>14</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac><m:mo>÷</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595308129">
+<para id="fs-id1169595149483"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597783904" class="try">
+<exercise id="fs-id1169597783907">
+<problem id="fs-id1169597783909">
+<para id="fs-id1169597783911">除：<m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>8</m:mn></m:mrow><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>y</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>12</m:mn><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722828">
+<para id="fs-id1169597722831"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1169595113516">请记住，分数线表示除法。繁分数是两个分数相除的另一种写法。</para>
+<example id="fs-id1169595123322"><exercise id="fs-id1169595123325">
+<problem id="fs-id1169595123327">
+<para id="fs-id1169595123329">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597721891">
+<title>解</title>
+<para id="fs-id1169597873116"><table id="fs-idm335995488" class="unnumbered unstyled" summary="Step-by-step simplification of a complex rational algebraic expression, detailing the process from initial division to the final simplified fraction.">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry/>
+<entry valign="top" align="center"><m:math><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:mfrac></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">用除号改写。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">改写成第一个分数乘以<newline/>第二个分数的倒数。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">将分子、<newline/>分母因式分解，然后相乘。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>4</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">约去公因式，进行化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose></m:mrow><m:mrow><m:mn>4</m:mn><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose><m:menclose notation="updiagonalstrike"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:menclose></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+<row>
+<entry valign="middle" align="left">化简。</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</para>
+
+</solution>
+</exercise>
+</example><note id="fs-id1169597808644" class="try">
+<exercise id="fs-id1169597722757">
+<problem id="fs-id1169597722759">
+<para id="fs-id1169597722761">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>24</m:mn></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>14</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>30</m:mn></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597880397">
+<para id="fs-id1169597880399"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169595309294" class="try">
+<exercise id="fs-id1169595309297">
+<problem id="fs-id1169595309299">
+<para id="fs-id1169595178387">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>36</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>11</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>60</m:mn></m:mrow><m:mrow><m:mn>8</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595147062">
+<para id="fs-id1169595147064"><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mrow><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<para id="fs-id1169597879038">如果要运算的有理式超过两个，仍按相同的步骤进行。第一步是将所有除法改写成乘以倒数。然后进行因式分解并相乘。</para>
+<example id="fs-id1169595178273">
+<exercise id="fs-id1169595178275">
+<problem id="fs-id1169595178277">
+<para id="fs-id1169595178279">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>12</m:mn></m:mrow><m:mrow><m:mn>8</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597781776">
+<title>解</title>
+<para id="fs-id1169597781782"><table id="eip-id1167836513484" class="unnumbered unstyled" aria-label="The above image shows the steps of how to divide more than two rational expressions for 3x minus 6 divided by 4x minus 4 times x squared plus 2x minus 3 divided by x squared minus 3x minus 10 divided by 2x plus 12 divided by 8x plus 16. Rewrite the division as multiplication by the reciprocal to get 8x plus 16 divided by 2x plus 12. Factor the numerators and the denominators, and then multiply to get 3 times 8 times x minus 2 times x plus 3 times x minus 1 times divided by 4 times 2 times x minus 1 times x plus 2 times x minus 5 times x plus 6. Simplify by dividing out the common factors 8, x minus 1, and x plus 2 from the numerator, and 4, 2, x minus 1, and x minus 3 from the denominator. Simplify to get 3 times x minus 2 times x plus 3 divided by x minus 5 times x plus 6."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry/>
+    <entry><media id="eip-id1167836513503" alt="A mathematical expression showing the multiplication of (3x-6)/(4x-4) and (x^2+2x-3)/(x^2-3x-10), then divided by (2x+12)/(8x+16)."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_007a_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>将除法改写成乘以倒数。</entry>
+    <entry><media id="eip-id1167836513520" alt="A mathematical expression showing the multiplication of three rational algebraic fractions: (3x-6)/(4x-4), (x^2+2x-3)/(x^2-3x-10), and (8x+16)/(2x+12), with the last fraction in red."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_007b_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>将分子、分母因式分解，然后相乘。</entry>
+    <entry><media id="eip-id1167836513537" alt="A complex algebraic fraction displays a numerator of 3 * 8 * (x-2)(x+3)(x-1)(x+2) and a denominator of 4 * 2 * (x-1)(x+2)(x-5)(x+6), set up for simplification."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_007c_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>约去公因式，进行化简。</entry>
+    <entry><media id="eip-id1167836513555" alt="A step-by-step simplification of a rational algebraic expression, demonstrating the cancellation of common factors such as (x-1), (x+2), and numerical terms in both the numerator and denominator."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_007d_img_new.jpg"/></media></entry>
+  </row>
+  <row>
+    <entry>化简。</entry>
+    <entry><media id="eip-id1167836513572" alt="A mathematical expression showing a fraction. The numerator is 3(x-2)(x+3) and the denominator is (x-5)(x+6)."><image mime-type="image/png" src="../../media/CNX_ElemAlg_Figure_08_02_007e_img_new.jpg"/></media></entry>
+  </row>
+ </tbody>
+
+
+</tgroup>
+</table></para></solution>
+</exercise>
+</example>
+<note id="fs-id1169595174610" class="try">
+<exercise id="fs-id1169595174613">
+<problem id="fs-id1169595174615">
+<para id="fs-id1169595174618">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>32</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>12</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>36</m:mn></m:mrow><m:mrow><m:mn>6</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>48</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597723302">
+<para id="fs-id1169597723304"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+<note id="fs-id1169597721208" class="try">
+<exercise id="fs-id1169597721211">
+<problem id="fs-id1169597721213">
+<para id="fs-id1169597721215">除：<m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>n</m:mi></m:mrow><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>24</m:mn></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>8</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>12</m:mn><m:mi>n</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595248459">
+<para id="fs-id1169595248461"><m:math><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note>
+</section>
+<section id="fs-id1169595149647" class="key-concepts">
+<title>核心概念</title>
+<list id="fs-id1169595149654" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">有理式的乘法</emphasis>
+<list id="fs-id1169597767831" list-type="bulleted" bullet-style="open-circle">
+<item>如果<m:math><m:mrow><m:mi>p</m:mi><m:mo>,</m:mo><m:mi>q</m:mi><m:mo>,</m:mo><m:mi>r</m:mi><m:mo>,</m:mo><m:mi>s</m:mi></m:mrow></m:math>是多项式，且<m:math><m:mrow><m:mi>q</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>s</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math>，那么<m:math><m:mrow><m:mfrac><m:mi>p</m:mi><m:mi>q</m:mi></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mi>r</m:mi><m:mi>s</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>p</m:mi><m:mi>r</m:mi></m:mrow><m:mrow><m:mi>q</m:mi><m:mi>s</m:mi></m:mrow></m:mfrac></m:mrow></m:math>。</item>
+<item>有理式相乘，把分子相乘，分母相乘</item>
+</list></item>
+<item><emphasis effect="bold">进行有理式的乘法运算</emphasis>
+<list id="fs-id1169751968626" list-type="enumerated" number-style="arabic" class="stepwise">
+<item>将每个分子、分母彻底因式分解。</item>
+<item>把分子相乘，分母相乘。</item>
+<item>约去公因式，进行化简。</item>
+</list></item>
+<item><emphasis effect="bold">有理式的除法</emphasis>
+<list id="fs-id1169595220233" list-type="bulleted" bullet-style="open-circle">
+<item>如果<m:math><m:mrow><m:mi>p</m:mi><m:mo>,</m:mo><m:mi>q</m:mi><m:mo>,</m:mo><m:mi>r</m:mi><m:mo>,</m:mo><m:mi>s</m:mi></m:mrow></m:math>是多项式，且<m:math><m:mrow><m:mi>q</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>r</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>s</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:mrow></m:math>，那么<m:math><m:mrow><m:mfrac><m:mi>p</m:mi><m:mi>q</m:mi></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mi>r</m:mi><m:mi>s</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>p</m:mi><m:mi>q</m:mi></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mi>s</m:mi><m:mi>r</m:mi></m:mfrac></m:mrow></m:math>。</item>
+<item>有理式相除，将第一个分数乘以第二个分数的倒数。</item>
+</list></item>
+<item><emphasis effect="bold">有理式的除法</emphasis>
+<list id="fs-id1169748428879" list-type="enumerated" number-style="arabic" class="stepwise">
+<item>将除法改写成第一个有理式与第二个有理式的倒数的积。</item>
+<item>将分子、分母彻底因式分解。</item>
+<item>把分子相乘，分母相乘。<newline/><newline/></item>
+<item>约去公因式，进行化简。</item>
+</list></item>
+</list>
+</section>
+<section id="fs-id1169597723860" class="section-exercises">
+<section id="fs-id1169597723863" class="practice-perfect">
+<title>熟能生巧</title>
+<para id="fs-id1169597723320"><emphasis effect="bold">有理式的乘法</emphasis></para>
+<para id="fs-id1169751875354">在下列练习中，进行乘法运算。</para>
+<exercise id="fs-id1169597723327">
+<problem id="fs-id1169597723329">
+<para id="fs-id1169597723331"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn></m:mrow><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722172">
+<para id="fs-id1169597722174"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595309861">
+<problem id="fs-id1169595309863">
+<para id="fs-id1169595309865"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>32</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>16</m:mn></m:mrow><m:mrow><m:mn>24</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595105306">
+<problem id="fs-id1169595105308">
+<para id="fs-id1169595105310"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>18</m:mn></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>30</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722942">
+<para id="fs-id1169597722944"><m:math><m:mrow><m:mfrac><m:mn>6</m:mn><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595664310">
+<problem id="fs-id1169595664312">
+<para id="fs-id1169595664314"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>21</m:mn></m:mrow><m:mrow><m:mn>36</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>45</m:mn></m:mrow><m:mrow><m:mn>24</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597821677">
+<problem id="fs-id1169597821679">
+<para id="fs-id1169597821682"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>y</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:mn>12</m:mn><m:mi>x</m:mi><m:msup><m:mi>y</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>6</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>20</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597602681">
+<para id="fs-id1169597602683"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>8</m:mn><m:mi>y</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595149099">
+<problem id="fs-id1169595149102">
+<para id="fs-id1169595149104"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>8</m:mn><m:msup><m:mi>w</m:mi><m:mn>3</m:mn></m:msup><m:mi>y</m:mi></m:mrow><m:mrow><m:mn>9</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>y</m:mi></m:mrow><m:mrow><m:mn>4</m:mn><m:msup><m:mi>w</m:mi><m:mn>4</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595176859">
+<problem id="fs-id1169597804361">
+<para id="fs-id1169597804363"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn><m:msup><m:mi>a</m:mi><m:mn>3</m:mn></m:msup><m:mi>b</m:mi></m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>9</m:mn><m:msup><m:mi>b</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595179203">
+<para id="fs-id1169595179205"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>8</m:mn><m:msup><m:mi>a</m:mi><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para></solution>
+</exercise>
+<exercise id="fs-id1169595225340">
+<problem id="fs-id1169595225342">
+<para id="fs-id1169595225344"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mi>m</m:mi><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>5</m:mn><m:msup><m:mi>n</m:mi><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>m</m:mi><m:msup><m:mi>n</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>8</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595231367">
+<problem id="fs-id1169595231369">
+<para id="fs-id1169595231371"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>5</m:mn><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>36</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow><m:mrow><m:mn>10</m:mn><m:mi>p</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597752200">
+<para id="fs-id1169597752202"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595150204">
+<problem id="fs-id1169595150206">
+<para id="fs-id1169595150209"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>q</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow><m:mrow><m:mn>9</m:mn><m:mi>q</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597720546">
+<problem id="fs-id1169597720548">
+<para id="fs-id1169597720550"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mi>r</m:mi></m:mrow><m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>r</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>8</m:mn><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597721410">
+<para id="fs-id1169597721412"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>r</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>r</m:mi><m:mo stretchy="false">(</m:mo><m:mi>r</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595308974">
+<problem id="fs-id1169595308976">
+<para id="fs-id1169595308978"><m:math><m:mrow><m:mfrac><m:mi>s</m:mi><m:mrow><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>s</m:mi><m:mo>+</m:mo><m:mn>14</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>49</m:mn></m:mrow><m:mrow><m:mn>7</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595176106">
+<problem id="fs-id1169595176108">
+<para id="fs-id1169595176110"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>x</m:mi></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>9</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722903">
+<para id="fs-id1169597722905"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595148570">
+<problem id="fs-id1169595148572">
+<para id="fs-id1169595148574"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>10</m:mn><m:mi>y</m:mi></m:mrow><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>25</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>6</m:mn><m:mi>y</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595233132">
+<problem id="fs-id1169595233134">
+<para id="fs-id1169595233136"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>z</m:mi></m:mrow><m:mrow><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>z</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>z</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597723793">
+<para id="fs-id1169597723795"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mi>z</m:mi><m:mo stretchy="false">(</m:mo><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595310380">
+<problem id="fs-id1169595310382">
+<para id="fs-id1169595310384"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:mi>a</m:mi></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>20</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597723884">
+<problem id="fs-id1169597723886">
+<para id="fs-id1169597723888"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>28</m:mn><m:mo>−</m:mo><m:mn>4</m:mn><m:mi>b</m:mi></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>49</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597721030">
+<para id="fs-id1169597721032"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mi>b</m:mi><m:mo>+</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597603996">
+<problem id="fs-id1169597603998">
+<para id="fs-id1169597604000"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>18</m:mn><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>6</m:mn><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>30</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>10</m:mn></m:mrow><m:mrow><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>81</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597721068">
+<problem id="fs-id1169597721070">
+<para id="fs-id1169597721072"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>35</m:mn><m:mi>d</m:mi><m:mo>−</m:mo><m:mn>7</m:mn><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>d</m:mi></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>12</m:mn><m:mi>d</m:mi><m:mo>+</m:mo><m:mn>35</m:mn></m:mrow><m:mrow><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595278041">
+<para id="fs-id1169595278043"><m:math><m:mrow><m:mn>−7</m:mn></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595226071">
+<problem id="fs-id1169595226074">
+<para id="fs-id1169595226076"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>72</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>12</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>8</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>32</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>24</m:mn></m:mrow><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>36</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597873969">
+<problem id="fs-id1169597723149">
+<para id="fs-id1169597723151"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>20</m:mn></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>20</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597720580">
+<para id="fs-id1169597720582"><m:math><m:mn>1</m:mn></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597720589">
+<problem id="fs-id1169597720591">
+<para id="fs-id1169597720594"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn><m:mi>p</m:mi></m:mrow><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>18</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>81</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>27</m:mn><m:mi>p</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595175034">
+<problem id="fs-id1169595175036">
+<para id="fs-id1169595175038"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>q</m:mi></m:mrow><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>q</m:mi><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>64</m:mn></m:mrow><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>q</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597832198">
+<para id="fs-id1169597832200"><m:math><m:mn>1</m:mn></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597832208">
+<problem id="fs-id1169597832210">
+<para id="fs-id1169597832212"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>2</m:mn><m:mi>r</m:mi></m:mrow><m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>r</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>10</m:mn><m:mi>r</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id1169597689440"><emphasis effect="bold">有理式的除法</emphasis></para>
+<para id="fs-id1169751879612">在下列练习中，进行除法运算。</para>
+<exercise id="fs-id1169597689447" class="material-set-2">
+<problem id="fs-id1169597689449">
+<para id="fs-id1169597689451"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>t</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>−</m:mo><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mi>t</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597722784">
+<para id="fs-id1169597722786"><m:math><m:mrow><m:mfrac><m:mrow><m:mfenced><m:mrow><m:mn>6</m:mn><m:mo>−</m:mo><m:mi>t</m:mi></m:mrow></m:mfenced><m:mfenced><m:mrow><m:mi>t</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mi>t</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597722818" class="material-set-2">
+<problem id="fs-id1169597722820">
+<para id="fs-id1169597722822"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>v</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>11</m:mn><m:mo>−</m:mo><m:mi>v</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>25</m:mn></m:mrow><m:mrow><m:mi>v</m:mi><m:mo>−</m:mo><m:mn>11</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595231221" class="material-set-2">
+<problem id="fs-id1169595231223">
+<para id="fs-id1169595231226"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>10</m:mn><m:mo>+</m:mo><m:mi>w</m:mi></m:mrow><m:mrow><m:mi>w</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>100</m:mn><m:mo>−</m:mo><m:msup><m:mi>w</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>8</m:mn><m:mo>−</m:mo><m:mi>w</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595296722">
+<para id="fs-id1169595296725"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>10</m:mn><m:mo>−</m:mo><m:mi>w</m:mi></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595296744" class="material-set-2">
+<problem id="fs-id1169595296746">
+<para id="fs-id1169595296748"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn><m:mo>+</m:mo><m:mi>x</m:mi></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:msup><m:mrow><m:mfrac><m:mrow><m:mn>49</m:mn><m:mo>−</m:mo><m:mi>x</m:mi></m:mrow><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597723920" class="material-set-2">
+<problem id="fs-id1169597723923">
+<para id="fs-id1169597723925"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>27</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>21</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>18</m:mn></m:mrow><m:mrow><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>13</m:mn><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>42</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597723990">
+<para id="fs-id1169597723992"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597723094" class="material-set-2">
+<problem id="fs-id1169597723096">
+<para id="fs-id1169597723098"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>24</m:mn><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>z</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:mi>z</m:mi><m:mo>−</m:mo><m:mn>28</m:mn></m:mrow><m:mrow><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>11</m:mn><m:mi>z</m:mi><m:mo>+</m:mo><m:mn>28</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597723249" class="material-set-2">
+<problem id="fs-id1169597723251">
+<para id="fs-id1169597723253"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>16</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>36</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>24</m:mn><m:mi>a</m:mi></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>45</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597721651">
+<para id="fs-id1169597721653"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">(</m:mo><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595278193" class="material-set-2">
+<problem id="fs-id1169595278195">
+<para id="fs-id1169595278197"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>24</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>12</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>36</m:mn><m:mi>b</m:mi></m:mrow><m:mrow><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>11</m:mn><m:mi>b</m:mi><m:mo>+</m:mo><m:mn>18</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597716105" class="material-set-2">
+<problem id="fs-id1169597716107">
+<para id="fs-id1169597716109"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597753678">
+<para id="fs-id1169597753680"><m:math><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597753741" class="material-set-2">
+<problem id="fs-id1169597604026">
+<para id="fs-id1169597604028"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>d</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>d</m:mi><m:mo>−</m:mo><m:mn>18</m:mn></m:mrow><m:mrow><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:mi>d</m:mi><m:mo>+</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597723538" class="material-set-2">
+<problem id="fs-id1169597723540">
+<para id="fs-id1169597723542"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>11</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>9</m:mn><m:mo>−</m:mo><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>6</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>25</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>9</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597601116">
+<para id="fs-id1169597601118"><m:math><m:mrow><m:mo>−</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597722393" class="material-set-2">
+<problem id="fs-id1169597722395">
+<para id="fs-id1169597722397"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>14</m:mn></m:mrow><m:mrow><m:mn>25</m:mn><m:mo>−</m:mo><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>13</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>21</m:mn></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>10</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595113642" class="material-set-2">
+<problem id="fs-id1169595113644">
+<para id="fs-id1169595113646"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>s</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:msup><m:mi>s</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>16</m:mn><m:mi>s</m:mi></m:mrow><m:mrow><m:msup><m:mi>s</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>64</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169595312714">
+<para id="fs-id1169595312716"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>s</m:mi></m:mrow><m:mrow><m:mi>s</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595312736" class="material-set-2">
+<problem id="fs-id1169595312738">
+<para id="fs-id1169595312741"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>r</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>27</m:mn></m:mrow><m:mrow><m:mn>5</m:mn><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>15</m:mn><m:mi>r</m:mi><m:mo>+</m:mo><m:mn>45</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597715991" class="material-set-2">
+<problem id="fs-id1169597715993">
+<para id="fs-id1169597715996"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597603634">
+<para id="fs-id1169597603636"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo>−</m:mo><m:mi>q</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>p</m:mi><m:mi>q</m:mi><m:mo>+</m:mo><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597873836" class="material-set-2">
+<problem id="fs-id1169597873838">
+<para id="fs-id1169597873840"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>v</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>8</m:mn><m:msup><m:mi>w</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>v</m:mi><m:mi>w</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:msup><m:mi>w</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn><m:msup><m:mi>w</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169595199116" class="material-set-2">
+<problem id="fs-id1169595199118">
+<para id="fs-id1169595199120"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>6</m:mn><m:mi>t</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597721720">
+<para id="fs-id1169597721722"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>t</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>t</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo>−</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597721757" class="material-set-2">
+<problem id="fs-id1169597721760">
+<para id="fs-id1169597721762"><m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>20</m:mn><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>50</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597723497" class="material-set-2">
+<problem id="fs-id1169597723499">
+<para id="fs-id1169597723501"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>10</m:mn><m:mi>y</m:mi><m:mi>z</m:mi><m:mo>−</m:mo><m:mn>48</m:mn><m:msup><m:mi>z</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>32</m:mn><m:mi>y</m:mi><m:mi>z</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597778101">
+<para id="fs-id1169597778103"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>y</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>z</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mi>y</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597778142" class="material-set-2">
+<problem id="fs-id1169597778144">
+<para id="fs-id1169597778146"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>98</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mo stretchy="false">(</m:mo><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>m</m:mi><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597753539" class="material-set-2">
+<problem id="fs-id1169597753541">
+<para id="fs-id1169597753544"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>21</m:mn></m:mrow><m:mrow><m:mn>5</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>20</m:mn></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>12</m:mn></m:mrow><m:mrow><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>8</m:mn><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597753615">
+<para id="fs-id1169597753617"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597603903" class="material-set-2">
+<problem id="fs-id1169597603905">
+<para id="fs-id1169597603908"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow><m:mrow><m:mn>12</m:mn><m:mi>b</m:mi><m:mo>+</m:mo><m:mn>18</m:mn></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>8</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>b</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>7</m:mn><m:mi>b</m:mi><m:mo>−</m:mo><m:mn>15</m:mn></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597603816" class="material-set-2">
+<problem id="fs-id1169597603818">
+<para id="fs-id1169597603820"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>3</m:mn><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>6</m:mn><m:msup><m:mi>c</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>13</m:mn><m:mi>c</m:mi><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597721106">
+<para id="fs-id1169597721108"><m:math><m:mrow><m:mn>3</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mi>c</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597721132" class="material-set-2">
+<problem id="fs-id1169597721134">
+<para id="fs-id1169597721136"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>7</m:mn><m:mi>d</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>35</m:mn><m:mi>d</m:mi><m:mo>+</m:mo><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>7</m:mn><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>12</m:mn><m:mi>d</m:mi><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597721317" class="material-set-2">
+<problem id="fs-id1169597721319">
+<para id="fs-id1169597721321"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>10</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>80</m:mn><m:mi>m</m:mi></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>9</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>21</m:mn></m:mrow><m:mrow><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>20</m:mn></m:mrow></m:mfrac></m:mrow></m:math><newline/><m:math><m:mrow><m:mspace width="1.5em"/><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn><m:msup><m:mi>m</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>m</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597873552">
+<para id="fs-id1169597873554"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169597603706" class="material-set-2">
+<problem id="fs-id1169597603708">
+<para id="fs-id1169597603710"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>4</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>32</m:mn><m:mi>n</m:mi></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>30</m:mn></m:mrow></m:mfrac></m:mrow></m:math><newline/><m:math><m:mrow><m:mspace width="1.5em"/><m:mo>÷</m:mo><m:mfrac><m:mrow><m:mn>108</m:mn><m:msup><m:mi>n</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>24</m:mn><m:mi>n</m:mi></m:mrow><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1169597720519" class="material-set-2">
+<problem id="fs-id1169597720521">
+<para id="fs-id1169597720523"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>12</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>p</m:mi></m:mrow><m:mrow><m:mi>p</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>63</m:mn></m:mrow><m:mrow><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>12</m:mn></m:mrow></m:mfrac></m:mrow></m:math><newline/><m:math><m:mrow><m:mspace width="1.5em"/><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>7</m:mn></m:mrow><m:mrow><m:mn>9</m:mn><m:msup><m:mi>p</m:mi><m:mn>3</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:msup><m:mi>p</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1169597331468">
+<para id="fs-id1169597331470"><m:math><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mi>p</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>3</m:mn><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mi>p</m:mi><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595271779" class="material-set-2">
+<problem id="fs-id1169595271781">
+<para id="fs-id1169595271784"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>9</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>9</m:mn><m:mi>q</m:mi></m:mrow></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>14</m:mn><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>33</m:mn></m:mrow><m:mrow><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>4</m:mn><m:mi>q</m:mi><m:mo>−</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:math><newline/><m:math><m:mrow><m:mspace width="1.5em"/><m:mo>·</m:mo><m:mfrac><m:mrow><m:mn>4</m:mn><m:msup><m:mi>q</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>12</m:mn><m:mi>q</m:mi></m:mrow><m:mrow><m:mn>12</m:mn><m:mi>q</m:mi><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1169595122245" class="everyday">
+<title>生活中的数学</title>
+<exercise id="fs-id1169595122250">
+<problem id="fs-id1169595122252">
+<para id="fs-id1169595122255"><emphasis effect="bold">概率</emphasis>一家大公司的主管正在面试应聘者，招聘两个相同岗位的员工。如果<m:math><m:mrow><m:mi>w</m:mi><m:mo>=</m:mo></m:mrow></m:math>表示女性应聘者的人数，<m:math><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo></m:mrow></m:math>表示男性应聘者的人数，那么录用两名女性的概率为<m:math><m:mrow><m:mfrac><m:mi>w</m:mi><m:mrow><m:mi>w</m:mi><m:mo>+</m:mo><m:mi>m</m:mi></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mrow><m:mi>w</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mi>w</m:mi><m:mo>+</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+<list id="fs-id1169594123602" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span>将两个有理式相乘，化简这个概率。</item>
+<item><span class="token">ⓑ</span>当<m:math><m:mrow><m:mi>w</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math>且<m:math><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>10</m:mn></m:mrow></m:math>时，求录用两名女性的概率。</item>
+</list>
+</problem>
+<solution id="fs-id1169595307745">
+<para id="fs-id1169594123649"><span class="token">ⓐ</span> <m:math><m:mrow><m:mfrac><m:mrow><m:mi>w</m:mi><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>w</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>w</m:mi><m:mo>+</m:mo><m:mi>m</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>w</m:mi><m:mo>+</m:mo><m:mi>m</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math><newline/><span class="token">ⓑ</span> <m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mrow><m:mn>21</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595307812">
+<problem id="fs-id1169595307814">
+<para id="fs-id1169595307816"><emphasis effect="bold">三角形的面积</emphasis>底为b、高为h的三角形的面积为<m:math><m:mrow><m:mfrac><m:mrow><m:mi>b</m:mi><m:mi>h</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math>。将该三角形拉伸成一个新三角形，使其底和高分别为原三角形的三倍，面积为<m:math><m:mrow><m:mfrac><m:mrow><m:mn>9</m:mn><m:mi>b</m:mi><m:mi>h</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math>。用<m:math><m:mrow><m:mfrac><m:mrow><m:mn>9</m:mn><m:mi>b</m:mi><m:mi>h</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:math>除以<m:math><m:mrow><m:mfrac><m:mrow><m:mi>b</m:mi><m:mi>h</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:math>，计算新三角形的面积是原三角形面积的多少倍。</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1169595278652" class="writing">
+<title>书面表达练习</title>
+<exercise id="fs-id1169595278657">
+<problem id="fs-id1169595278659">
+<list id="fs-id1169594123437" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span>计算乘法<m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow></m:math>，并说明每一个步骤。</item>
+<item><span class="token">ⓑ</span>计算乘法<m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mi>n</m:mi><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>9</m:mn><m:mrow><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:math>，并说明每一个步骤。</item>
+<item><span class="token">ⓒ</span>当<m:math><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>7</m:mn><m:mo>.</m:mo></m:mrow></m:math>时，求你在第（b）问中所得答案的值。结果与第（a）问相同吗？为什么？</item>
+</list>
+</problem>
+<solution id="fs-id1169595310661">
+<para id="fs-id1169595310663">答案不唯一。</para>
+</solution>
+</exercise>
+<exercise id="fs-id1169595310668">
+<problem id="fs-id1169595310670">
+<list id="fs-id1169594242281" list-type="enumerated" number-style="arabic" class="circled">
+<item><span class="token">ⓐ</span>计算除法<m:math><m:mrow><m:mfrac><m:mrow><m:mn>24</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>6</m:mn></m:mrow></m:math>，并说明每一个步骤。</item>
+<item><span class="token">ⓑ</span>计算除法<m:math><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow><m:mi>x</m:mi></m:mfrac><m:mo>÷</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math>，并说明每一个步骤。</item>
+<item><span class="token">ⓒ</span>当<m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math>时，求你在第（b）问中所得答案的值。结果与第（a）问相同吗？为什么？</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1169752142700">
+<title>自我检查</title>
+<para id="fs-id1169597873694"><span class="token">ⓐ</span>完成练习后，请用这份核对表评估你对本节学习目标的掌握情况。</para>
+<media id="fs-id1169597873709" alt="The above image is a table with four columns and four rows. The first row is the header row. The first header is labeled “I can…”, the second “Confidently”, the third, “With some help”, and the fourth “No – I don’t get it!”. In the first column under “I can”, the next row reads multiply rational expressions.”, the next row reads “divide rational expressions.”, the last row reads “after reviewing this checklist, what will you do to become confident for all objectives?” The remaining columns are blank.">
+<image mime-type="image/jpeg" src="../../media/CNX_ElemAlg_Figure_08_02_201_img_new.jpg"/>
+</media>
+<para id="fs-id1169597873718"><span class="token">ⓑ</span>查看这份核对表后，你打算怎样做，才能有信心达成本节的所有学习目标？</para>
+</section>
+</section>
+</content>
+</document>
